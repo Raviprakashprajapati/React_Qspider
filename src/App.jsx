@@ -4,6 +4,8 @@ import FunctionalBasedCompIntro from "./component/functionBasedComp/FunctionalBa
 import UseStateIntro from "./component/UseStateCompoent/UseStateIntro";
 import PropsIntro from "./component/PropsComponent/PropsIntro";
 import EventsIntro from "./component/SynthethicEvents/EventsIntro";
+import ConRenIntro from "./component/CondiitonalRendering/ConRenIntro";
+import UseRefIntro from "./component/useRefHook/UseRefIntro";
 
 function App() {
   return (
@@ -12,7 +14,10 @@ function App() {
       {/* <FunctionalBasedCompIntro/> */}
       {/* <UseStateIntro/> */}
       {/* <PropsIntro /> */}
-      <EventsIntro/>
+      {/* <EventsIntro/> */}
+      {/* <ConRenIntro/> */}
+      <UseRefIntro/>
+
     </div>
   );
 }

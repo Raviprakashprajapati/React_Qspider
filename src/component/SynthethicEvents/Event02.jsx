@@ -22,72 +22,7 @@ const Event02 = () => {
         <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
         <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
         <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-        <div onMouseEnter={handleEnter} onMouseLeave={handleLeave}  style={{width:"300px",border:"3px solid red" ,height:"200px"}} ></div>
-      
+        
     </div>
   )
 }
