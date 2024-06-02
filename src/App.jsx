@@ -6,6 +6,7 @@ import PropsIntro from "./component/PropsComponent/PropsIntro";
 import EventsIntro from "./component/SynthethicEvents/EventsIntro";
 import ConRenIntro from "./component/CondiitonalRendering/ConRenIntro";
 import UseRefIntro from "./component/useRefHook/UseRefIntro";
+import MapIntro from "./component/MapPractice/MapIntro";
 
 function App() {
   return (
@@ -16,7 +17,8 @@ function App() {
       {/* <PropsIntro /> */}
       {/* <EventsIntro/> */}
       {/* <ConRenIntro/> */}
-      <UseRefIntro/>
+      {/* <UseRefIntro/> */}
+      <MapIntro/>
 
     </div>
   );
