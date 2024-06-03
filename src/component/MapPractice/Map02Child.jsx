@@ -1,16 +1,17 @@
 import React from 'react'
+import human from "../../../public/1.png"
+// import human from "../../../public/ravi.png"
 
 function Map02Child(props) {
 
   const data = props.props
-  console.log(data)
-
 
   return (
-    <div className='border p-3 border-black rounded-lg  ' >
+    <div className='border p-3 border-black bg-slate-900 text-white rounded-lg ' >
 
      <main>
-      <img src={data?.avatar_url} className='h-[10rem] m-auto ' alt="" />
+      {/* <img src={data?.avatar_url} className='h-[10rem] m-auto ' alt="" /> */}
+      <img src={human} className='h-[10rem] m-auto ' alt="" />
       <div  >
         <p className='text-center font-semibold capitalize m-3' >{data?.login}</p>
       </div>

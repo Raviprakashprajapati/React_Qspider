@@ -2,6 +2,7 @@ import React from "react";
 import Map02Child from "./Map02Child";
 
 function Map02() {
+    
   const data = [
     {
       login: "mojombo",
