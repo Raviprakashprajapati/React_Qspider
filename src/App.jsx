@@ -9,6 +9,9 @@ import UseRefIntro from "./component/useRefHook/UseRefIntro";
 import MapIntro from "./component/MapPractice/MapIntro";
 import { contextVariable } from "./component/MyCOntext/Context01";
 import Acessasor from "./component/MyCOntext/Acessasor";
+import Context02 from "./component/MyCOntext/Context02";
+import Acessasor02 from "./component/MyCOntext/Acessasor02";
+import UseEffectIntro from "./component/MyUseEffect/UseEffectIntro";
 
 function App() {
 
@@ -24,7 +27,11 @@ function App() {
       {/* <ConRenIntro/> */}
       {/* <UseRefIntro/> */}
       {/* <MapIntro/> */}
-      <Acessasor/>
+
+      {/* <Acessasor/> */}
+      {/* <Context02/> */}
+      {/* <Acessasor02/> */}
+      <UseEffectIntro/>
 
     </div>
   );
