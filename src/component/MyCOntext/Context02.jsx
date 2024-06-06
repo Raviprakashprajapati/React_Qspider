@@ -24,7 +24,8 @@ function Context02({children}) {
     },[])
 
   return (
-    <apiContext.Provider value={{data,setData,imageArray}} >
+    <apiContext.Provider value={{data,setData,imageArray}
+    } >
         {children}
     </apiContext.Provider>
     
