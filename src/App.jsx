@@ -31,7 +31,7 @@ function App() {
       {/* <Acessasor/> */}
       {/* <Context02/> */}
       {/* <Acessasor02/> */}
-      <UseEffectIntro/>
+      {/* <UseEffectIntro/> */}
 
     </div>
   );
