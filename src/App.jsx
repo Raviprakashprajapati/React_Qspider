@@ -12,6 +12,8 @@ import Acessasor from "./component/MyCOntext/Acessasor";
 import Context02 from "./component/MyCOntext/Context02";
 import Acessasor02 from "./component/MyCOntext/Acessasor02";
 import UseEffectIntro from "./component/MyUseEffect/UseEffectIntro";
+import HOcIntro from "./component/HigherOrderComponent/HOcIntro";
+import UseMemoIntro from "./component/UseMemoHook/UseMemoIntro";
 
 function App() {
 
@@ -32,6 +34,11 @@ function App() {
       {/* <Context02/> */}
       {/* <Acessasor02/> */}
       {/* <UseEffectIntro/> */}
+      {/* <HOcIntro/> */}
+
+      <div>
+        <UseMemoIntro/>
+      </div>
 
     </div>
   );
