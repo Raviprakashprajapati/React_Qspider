@@ -14,6 +14,7 @@ import Acessasor02 from "./component/MyCOntext/Acessasor02";
 import UseEffectIntro from "./component/MyUseEffect/UseEffectIntro";
 import HOcIntro from "./component/HigherOrderComponent/HOcIntro";
 import UseMemoIntro from "./component/UseMemoHook/UseMemoIntro";
+import UseReducerIntro from "./component/useReducerHooks/UseReducerIntro";
 
 function App() {
 
@@ -35,10 +36,8 @@ function App() {
       {/* <Acessasor02/> */}
       {/* <UseEffectIntro/> */}
       {/* <HOcIntro/> */}
-
-      <div>
-        <UseMemoIntro/>
-      </div>
+      {/* <UseMemoIntro/> */}
+        <UseReducerIntro/>
 
     </div>
   );
