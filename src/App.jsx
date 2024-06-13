@@ -15,6 +15,7 @@ import UseEffectIntro from "./component/MyUseEffect/UseEffectIntro";
 import HOcIntro from "./component/HigherOrderComponent/HOcIntro";
 import UseMemoIntro from "./component/UseMemoHook/UseMemoIntro";
 import UseReducerIntro from "./component/useReducerHooks/UseReducerIntro";
+import Todo from "./component/CrudTodo/Todo";
 
 function App() {
 
@@ -37,7 +38,8 @@ function App() {
       {/* <UseEffectIntro/> */}
       {/* <HOcIntro/> */}
       {/* <UseMemoIntro/> */}
-        <UseReducerIntro/>
+      {/* <UseReducerIntro/> */}
+      <Todo/>
 
     </div>
   );
