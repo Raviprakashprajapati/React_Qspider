@@ -16,6 +16,7 @@ import HOcIntro from "./component/HigherOrderComponent/HOcIntro";
 import UseMemoIntro from "./component/UseMemoHook/UseMemoIntro";
 import UseReducerIntro from "./component/useReducerHooks/UseReducerIntro";
 import Todo from "./component/CrudTodo/Todo";
+import UseCallbackIntro from "./component/UseCallack/UseCallbackIntro";
 
 function App() {
 
@@ -39,7 +40,8 @@ function App() {
       {/* <HOcIntro/> */}
       {/* <UseMemoIntro/> */}
       {/* <UseReducerIntro/> */}
-      <Todo/>
+      {/* <Todo/> */}
+      <UseCallbackIntro/>
 
     </div>
   );
