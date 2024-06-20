@@ -18,6 +18,7 @@ import UseReducerIntro from "./component/useReducerHooks/UseReducerIntro";
 import Todo from "./component/CrudTodo/Todo";
 import UseCallbackIntro from "./component/UseCallack/UseCallbackIntro";
 import CustomHooksIntro from "./component/CustomHooks/CustomHooksIntro";
+import ReactReduxIntro from "./component/reactRedux/ReactReduxIntro";
 
 function App() {
 
@@ -44,6 +45,7 @@ function App() {
       {/* <Todo/> */}
       {/* <UseCallbackIntro/> */}
       {/* <CustomHooksIntro/> */}
+      <ReactReduxIntro/>
 
     </div>
   );
