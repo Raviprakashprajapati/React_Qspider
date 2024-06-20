@@ -17,6 +17,7 @@ import UseMemoIntro from "./component/UseMemoHook/UseMemoIntro";
 import UseReducerIntro from "./component/useReducerHooks/UseReducerIntro";
 import Todo from "./component/CrudTodo/Todo";
 import UseCallbackIntro from "./component/UseCallack/UseCallbackIntro";
+import CustomHooksIntro from "./component/CustomHooks/CustomHooksIntro";
 
 function App() {
 
@@ -41,7 +42,8 @@ function App() {
       {/* <UseMemoIntro/> */}
       {/* <UseReducerIntro/> */}
       {/* <Todo/> */}
-      <UseCallbackIntro/>
+      {/* <UseCallbackIntro/> */}
+      {/* <CustomHooksIntro/> */}
 
     </div>
   );
